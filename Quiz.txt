@@ -1,0 +1,55 @@
+USERS 10
+ahmed 120 point
+sama 110 point
+hana 70 point
+jana 60 point
+adel 20 point
+alaa 10 point
+hanan 10 point
+rawan 0 point
+doaa 0 point
+hany 0 point
+LEVEL1 4
+What is the capital of France?
+London
+Madrid
+Paris
+Rome
+C
+10
+Which of the following countries has the largest Muslim population in the world?
+Saudi Arabia
+Indonesia
+Egypt
+Iran
+B
+10
+What is the second-largest country in the world after Russia?
+China
+USA
+Canada
+Turkey
+C
+10
+Which country has the most islands in the world?
+Canada
+Norway
+Sweden
+France
+C
+10
+LEVEL2 2
+What is the capital of Australia?
+Sydney
+Melbourne
+Brisbane
+Canberra
+D
+20
+What is the smallest country in the world?
+Monaco
+Vatican
+Andorra
+Rome
+B
+20
