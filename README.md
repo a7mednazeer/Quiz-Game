@@ -1,6 +1,6 @@
 Team Members:
-• Ahmed Nazeer
-• Jana Sakr
+- Ahmed Nazeer
+- Jana Sakr
 
 
 Project topic:
